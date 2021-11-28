@@ -1,6 +1,6 @@
 # pokemon
 
-A new Flutter project.
+You can examine 151 types of pokemon in the application. It uses JSON API for all datas includes pictures, names, types and other informations.  
 
 ## Getting Started
 
